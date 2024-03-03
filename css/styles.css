@@ -48,7 +48,7 @@ button {
   color: #404bbf;
 }
 
-.header-navigation-world span {
+.header-navigation-link span {
   color: #4d5ae5;
 }
 
@@ -65,11 +65,7 @@ button {
   color: #404bbf;
 }
 
-.header-navigation-item-studio {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+.header-navigation-item span {
   color: #2e2f42;
 }
 
@@ -230,11 +226,11 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
+  color: #4d5ae5;
 }
 
 .footer-link span {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 
 .footer-text {
