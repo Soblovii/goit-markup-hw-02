@@ -1,6 +1,9 @@
 body {
-  font-family: "Roboto", "Releway", sans-serif;
-  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  width: 1440px;
+  height: 3300px;
 }
 
 ul {
@@ -34,7 +37,7 @@ button {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
@@ -45,13 +48,7 @@ button {
   color: #404bbf;
 }
 
-.header-navigation-world {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+.header-navigation-world span {
   color: #4d5ae5;
 }
 
@@ -126,7 +123,7 @@ button {
 
 .main-button:hover,
 .main-button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .main-subtitle {
@@ -236,7 +233,7 @@ button {
   color: #f4f4fd;
 }
 
-.footer-word {
+.footer-link span {
   color: #4d5ae5;
 }
 
